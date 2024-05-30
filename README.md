@@ -6,8 +6,7 @@ We appreciate your contributions and look forward to improving JuiceMind with yo
 
 ## How to Contribute
 
-- **Submit Issues:** If you encounter any problems or bugs, please [submit an issue](https://github.com/JuiceMind/JuiceMind/issues/new) so we can address it promptly.
-- **Feature Requests:** Have a great idea for a new feature? Let us know by [submitting a feature request](https://github.com/JuiceMind/JuiceMind/issues/new).
+- **Submit Issues and Feature Requests:** If you encounter any problems or bugs or have a great idea for a new feature, please [submit an issue or feature request](https://github.com/JuiceMind/JuiceMind/issues/new) so we can address it promptly.
 
 Thank you for being a part of the JuiceMind community!
 
