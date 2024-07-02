@@ -20,6 +20,3 @@ We appreciate your contributions and look forward to improving JuiceMind with yo
   4. Low priority (Any bugs or requests which are not urgent) 
 
 
-
-Thank you for being a part of the JuiceMind community!
-**JuiceMind Team**
